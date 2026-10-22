@@ -13,9 +13,7 @@ public class Spawner : MonoBehaviour
     public Transform airSpawnPoint;
     public AudioSource audioSource;
 
-    [Header("Cài đặt Vật lý")]
-    public float enemySpeed = 10f; 
-    public float distanceToHitZone = 14f;
+    // Đã xóa phần "Cài đặt Vật lý" ở đây vì nó đã được chuyển sang LevelData
 
     [Header("Cài đặt Auto Gen")]
     public bool useAutoGenerate = true;
@@ -34,6 +32,7 @@ public class Spawner : MonoBehaviour
             return;
         }
 
+        // Chỉ gán nhạc, KHÔNG ra lệnh Play ở đây để chờ đếm ngược 3 giây
         if (audioSource != null)
         {
             audioSource.clip = currentLevel.songAudio;
@@ -41,7 +40,6 @@ public class Spawner : MonoBehaviour
 
         activeBeatmap = new List<NoteData>();
 
-        // Lựa chọn sinh tự động hoặc đọc từ Beatmap map tay của LevelData
         if (useAutoGenerate)
         {
             GenerateBeatmap();
@@ -54,19 +52,20 @@ public class Spawner : MonoBehaviour
                 copyNote.hitTime = note.hitTime;
                 copyNote.lane = note.lane;
                 copyNote.noteType = note.noteType;
-                copyNote.yPos = note.yPos; // Copy cả tọa độ Y để phục vụ âm thanh theo độ cao
+                copyNote.yPos = note.yPos; 
                 copyNote.hasSpawned = false;
                 activeBeatmap.Add(copyNote);
             }
         }
 
-        travelTime = distanceToHitZone / enemySpeed;
-        
-        if (audioSource != null) 
-        {
-            audioSource.Play();
-            dspSongTime = AudioSettings.dspTime; 
-        }
+        // LẤY THÔNG SỐ VẬT LÝ TRỰC TIẾP TỪ LEVEL DATA
+        travelTime = currentLevel.distanceToHitZone / currentLevel.enemySpeed;
+    }
+
+    // Hàm này chạy ngay khi đếm ngược xong chữ GO!
+    void OnEnable()
+    {
+        dspSongTime = AudioSettings.dspTime; 
     }
 
     void Update()
@@ -99,7 +98,7 @@ public class Spawner : MonoBehaviour
             NoteData newNote = new NoteData();
             newNote.hitTime = i;
             newNote.lane = Random.Range(0, 2); 
-            newNote.yPos = (newNote.lane == 1) ? 96f : 288f; // Gán tọa độ Y giả lập nếu dùng Auto Gen
+            newNote.yPos = (newNote.lane == 1) ? 96f : 288f; 
             
             float randomVal = Random.Range(0f, 100f);
             newNote.noteType = (randomVal <= holdNoteChance) ? 1 : 0;
@@ -115,14 +114,13 @@ public class Spawner : MonoBehaviour
         
         GameObject newEnemy = Instantiate(prefabToUse, spawnPoint.position, Quaternion.identity);
         
-        // Truyền tốc độ di chuyển
+        // TRUYỀN TỐC ĐỘ TỪ LEVEL DATA VÀO QUÁI VẬT
         EnemyMovement movementScript = newEnemy.GetComponent<EnemyMovement>();
         if (movementScript != null)
         {
-            movementScript.moveSpeed = enemySpeed;
+            movementScript.moveSpeed = currentLevel.enemySpeed;
         }
 
-        // Truyền tọa độ Y gốc của nốt vào EnemyController để HitZone nhận diện phát đúng âm thanh SFX 16 độ cao
         EnemyController enemyComp = newEnemy.GetComponent<EnemyController>();
         if (enemyComp != null)
         {

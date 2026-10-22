@@ -24,6 +24,9 @@ public class HitZone : MonoBehaviour
 
     void Update()
     {
+        // 1. NẾU ĐANG BẬT AUTO PLAY THÌ BỎ QUA KIỂM TRA PHÍM BẤM BẰNG TAY
+        if (GameFlowManager.instance != null && GameFlowManager.instance.isAutoPlay) return;
+
         if (Input.GetKeyDown(inputKey))
         {
             if (enemiesInZone.Count > 0)
@@ -45,7 +48,6 @@ public class HitZone : MonoBehaviour
                     Destroy(enemyToHit);
                     PlayPitchHitSound(noteY); 
 
-                    // TRUYỀN VỊ TRÍ CHÉM VÀO ĐÂY
                     if (ScoreManager.instance != null) ScoreManager.instance.AddHit("Perfect", transform.position);
                 }
             }
@@ -80,7 +82,34 @@ public class HitZone : MonoBehaviour
     {
         if (other.CompareTag("Enemy") || other.CompareTag("HoldEnemy"))
         {
-            enemiesInZone.Add(other.gameObject);
+            // 2. KÍCH HOẠT AUTO PLAY NGAY KHI NỐT CHẠM VẠCH CHÉM
+            if (GameFlowManager.instance != null && GameFlowManager.instance.isAutoPlay)
+            {
+                float noteY = 192f;
+                EnemyController enemyComp = other.GetComponent<EnemyController>();
+                if (enemyComp != null) { noteY = enemyComp.originalYPos; }
+
+                PlayPitchHitSound(noteY); // Phát âm thanh ngay lập tức
+
+                if (other.CompareTag("Enemy"))
+                {
+                    // Đối với nốt thường: Chém trúng và hủy nốt ngay lập tức
+                    Destroy(other.gameObject);
+                    if (ScoreManager.instance != null) ScoreManager.instance.AddHit("Perfect", transform.position);
+                }
+                else if (other.CompareTag("HoldEnemy"))
+                {
+                    // Đối với nốt Hold: Chuyển sang trạng thái tự động đè phím (sẽ tự nhả ra ở hàm OnTriggerExit2D)
+                    enemiesInZone.Add(other.gameObject);
+                    isHolding = true;
+                    currentHoldEnemy = other.gameObject;
+                }
+            }
+            else
+            {
+                // Chơi tay bình thường: thêm nốt vào danh sách chờ chém
+                enemiesInZone.Add(other.gameObject);
+            }
         }
     }
 
