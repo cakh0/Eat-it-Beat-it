@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: 93e658562402bdc4ca4bc32da621344d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5899563704658574238
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_0
+  - first:
+      213: -375336100369522075
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_1
+  - first:
+      213: 5113145157120152722
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_2
+  - first:
+      213: -4093188724766419826
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_3
+  - first:
+      213: -1524830081490217257
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_4
+  - first:
+      213: 8516724485399145784
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_5
+  - first:
+      213: 7403599462955103193
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_6
+  - first:
+      213: 5016049359130992408
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_7
+  - first:
+      213: -4835888251556588477
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_8
+  - first:
+      213: -6739242680773621356
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_9
+  - first:
+      213: 2937647499547934205
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_10
+  - first:
+      213: 4803958975746766813
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_11
+  - first:
+      213: -2670770889016453934
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_12
+  - first:
+      213: -3308000738907195144
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_13
+  - first:
+      213: 4231791194628335359
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_14
+  - first:
+      213: -8634470474796813899
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_15
+  - first:
+      213: -5128536714324279700
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_16
+  - first:
+      213: -8646361017917455174
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_17
+  - first:
+      213: 3147735825384474471
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_18
+  - first:
+      213: -8492964098846395065
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_19
+  - first:
+      213: -5715297837225608451
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_20
+  - first:
+      213: -4519979833785471817
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_21
+  - first:
+      213: -3309537957344745234
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_22
+  - first:
+      213: 8240502932947930653
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_23
+  - first:
+      213: 3590235661225618069
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_24
+  - first:
+      213: 6992394294446305478
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_25
+  - first:
+      213: 7906217006757878670
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_26
+  - first:
+      213: 4776761222887914767
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_27
+  - first:
+      213: 5911031992209733511
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_28
+  - first:
+      213: -4219672680937275802
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_29
+  - first:
+      213: -2919295958799337522
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_30
+  - first:
+      213: 7474784002437797848
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_31
+  - first:
+      213: 5573645118544310346
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_32
+  - first:
+      213: 5420261531556278284
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_33
+  - first:
+      213: -7700891290312619764
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_34
+  - first:
+      213: 1188875264274610445
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_35
+  - first:
+      213: -5151207068136258194
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_36
+  - first:
+      213: -26640313534375215
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_37
+  - first:
+      213: -1523505994643352013
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_38
+  - first:
+      213: -9018657912619700726
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_39
+  - first:
+      213: -7928254830528350031
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_40
+  - first:
+      213: -6709485824761558353
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_41
+  - first:
+      213: -2363492454445215101
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_42
+  - first:
+      213: 4644715162710928679
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_43
+  - first:
+      213: 6307072519172100572
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_44
+  - first:
+      213: 1961272783047997262
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_45
+  - first:
+      213: -1865348003277079893
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_46
+  - first:
+      213: 359708914224521291
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_47
+  - first:
+      213: -5285716506501593634
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_48
+  - first:
+      213: 3452089079941878194
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_49
+  - first:
+      213: -7508852024204091727
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_50
+  - first:
+      213: 7620340722846475661
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_51
+  - first:
+      213: -3749545315359615433
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_52
+  - first:
+      213: 7963703911367217538
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_53
+  - first:
+      213: 4272287471295080101
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_54
+  - first:
+      213: 7648565313253498938
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_55
+  - first:
+      213: 7540512515333812770
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_56
+  - first:
+      213: -8934193865821854360
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_57
+  - first:
+      213: -7704910777404931239
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_58
+  - first:
+      213: 2809526471415663380
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_59
+  - first:
+      213: -1821248560196841241
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_60
+  - first:
+      213: -2290729313248155804
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_61
+  - first:
+      213: 1648124030397164675
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_62
+  - first:
+      213: 8778271733445269087
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_63
+  - first:
+      213: -9939226861261425
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_64
+  - first:
+      213: -5650942325071709116
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_65
+  - first:
+      213: -1862610194474437408
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_66
+  - first:
+      213: -8306185418107181579
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_67
+  - first:
+      213: 2893974807021654365
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_68
+  - first:
+      213: 7315161700775386323
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_69
+  - first:
+      213: -7033462084210844469
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_70
+  - first:
+      213: 346638414193518737
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_71
+  - first:
+      213: 7681340067998734235
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_72
+  - first:
+      213: 8062663553627425151
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_73
+  - first:
+      213: 5029367699175967195
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_74
+  - first:
+      213: 3935962357221486395
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_75
+  - first:
+      213: 8948958217069872210
+    second: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 681
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c90e511a802ea0800000000000000
+      internalID: -5899563704658574238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 682
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562281a2ec98acaf0800000000000000
+      internalID: -375336100369522075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 682
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294d7270e6a85f640800000000000000
+      internalID: 5113145157120152722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 681
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d9ad9a821237c0800000000000000
+      internalID: -4093188724766419826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 662
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d612f9ae17b6dae0800000000000000
+      internalID: -1524830081490217257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 661
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d6612cbcb713670800000000000000
+      internalID: 8516724485399145784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 662
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d336b05c7edeb660800000000000000
+      internalID: 7403599462955103193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 662
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f14d2e0569c9540800000000000000
+      internalID: 5016049359130992408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 662
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3441c70c14973ecb0800000000000000
+      internalID: -4835888251556588477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 616
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994655ec766972a0800000000000000
+      internalID: -6739242680773621356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 590
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd7ed526de94c820800000000000000
+      internalID: 2937647499547934205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 590
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd77fe86c371ba240800000000000000
+      internalID: 4803958975746766813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 590
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d458bbd6048fead0800000000000000
+      internalID: -2670770889016453934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 590
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8f4b0cade9712d0800000000000000
+      internalID: -3308000738907195144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 590
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6a277aba75aba30800000000000000
+      internalID: 4231791194628335359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 590
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1332eb9d23c2880800000000000000
+      internalID: -8634470474796813899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 590
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ef62dc707c3d8b0800000000000000
+      internalID: -5128536714324279700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 590
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ce3fe674f10880800000000000000
+      internalID: -8646361017917455174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 590
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76700d64e010fab20800000000000000
+      internalID: 3147735825384474471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 597
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7457d16562ee22a80800000000000000
+      internalID: -8492964098846395065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 1486
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafb92e5ee2fa0b0800000000000000
+      internalID: -5715297837225608451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 542
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bca94ff94ec541c0800000000000000
+      internalID: -4519979833785471817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 505
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee86bc133c82212d0800000000000000
+      internalID: -3309537957344745234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 505
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e0de8e1c52c5270800000000000000
+      internalID: 8240502932947930653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 505
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aea4fdf4413d130800000000000000
+      internalID: 3590235661225618069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 505
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b0f14099f90160800000000000000
+      internalID: 6992394294446305478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 505
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b94fc8a7688bd60800000000000000
+      internalID: 7906217006757878670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_27
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 505
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d381b16077a4240800000000000000
+      internalID: 4776761222887914767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 505
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78771a76744380250800000000000000
+      internalID: 5911031992209733511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_29
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 505
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e3050bd06b075c0800000000000000
+      internalID: -4219672680937275802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 522
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec73885eac39c77d0800000000000000
+      internalID: -2919295958799337522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 1486
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7d3167274cbb760800000000000000
+      internalID: 7474784002437797848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 464
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a407ce274b0995d40800000000000000
+      internalID: 5573645118544310346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 410
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00702a2523a83b40800000000000000
+      internalID: 5420261531556278284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 410
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09440b2c20f02590800000000000000
+      internalID: -7700891290312619764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 410
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09365101cbbf7010800000000000000
+      internalID: 1188875264274610445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 410
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c14bb67c3388b0800000000000000
+      internalID: -5151207068136258194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_37
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 410
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da1417a6ca51aff0800000000000000
+      internalID: -26640313534375215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_38
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 410
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336da18ae5b6bdae0800000000000000
+      internalID: -1523505994643352013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_39
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 410
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e698f496a47d280800000000000000
+      internalID: -9018657912619700726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_40
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 410
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b83591cc3e29f190800000000000000
+      internalID: -7928254830528350031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 444
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa8195d03e13e2a0800000000000000
+      internalID: -6709485824761558353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 1486
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3821a7f8220333fd0800000000000000
+      internalID: -2363492454445215101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 361
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d614ce4d7557040800000000000000
+      internalID: 4644715162710928679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 301
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd191e53a09378750800000000000000
+      internalID: 6307072519172100572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 301
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47b7357437d73b10800000000000000
+      internalID: 1961272783047997262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_46
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 303
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa7f22cfd3fc16e0800000000000000
+      internalID: -1865348003277079893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_47
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 303
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40e4e60a51fdf400800000000000000
+      internalID: 359708914224521291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 303
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5cd8e97dc55a6b0800000000000000
+      internalID: -5285716506501593634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_49
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 303
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1d0fe6ab848ef20800000000000000
+      internalID: 3452089079941878194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_50
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 303
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be975a1ed23bc790800000000000000
+      internalID: -7508852024204091727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_51
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 303
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8525bc5383e0c960800000000000000
+      internalID: 7620340722846475661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 342
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73692c0d660f6fbc0800000000000000
+      internalID: -3749545315359615433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 1486
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2819e6d8382c48e60800000000000000
+      internalID: 7963703911367217538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 237
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a625e0d1d63a4b30800000000000000
+      internalID: 4272287471295080101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 237
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3069d9e0a9252a60800000000000000
+      internalID: 7648565313253498938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 189
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222fbdc6e2845a860800000000000000
+      internalID: 7540512515333812770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 189
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e631b30e530480800000000000000
+      internalID: -8934193865821854360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 192
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95343b66878a21590800000000000000
+      internalID: -7704910777404931239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 190
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b89c3b0717df620800000000000000
+      internalID: 2809526471415663380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_60
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 190
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e096c97510a9b6e0800000000000000
+      internalID: -1821248560196841241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_61
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 190
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467e44f83d1b530e0800000000000000
+      internalID: -2290729313248155804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_62
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 191
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cab91d2105fd610800000000000000
+      internalID: 1648124030397164675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_63
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 191
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f569bddd1afa2d970800000000000000
+      internalID: 8778271733445269087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 217
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8da7996350bcdff0800000000000000
+      internalID: -9939226861261425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 1486
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c71e335e1d391b0800000000000000
+      internalID: -5650942325071709116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4745b85eda626e0800000000000000
+      internalID: -1862610194474437408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_67
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5213bce508abc80800000000000000
+      internalID: -8306185418107181579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_68
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51947901c6792820800000000000000
+      internalID: 2893974807021654365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_69
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc52493fcca48560800000000000000
+      internalID: 7315161700775386323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_70
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc1f61df7f146e90800000000000000
+      internalID: -7033462084210844469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_71
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19862871dc18fc400800000000000000
+      internalID: 346638414193518737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_72
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971a08281a999a60800000000000000
+      internalID: 7681340067998734235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_73
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f798371c8c554ef60800000000000000
+      internalID: 8062663553627425151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_74
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd905329647ebc540800000000000000
+      internalID: 5029367699175967195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_75
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 25
+        width: 128
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fee7709e85f9630800000000000000
+      internalID: 3935962357221486395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 78
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2544346b516113c70800000000000000
+      internalID: 8948958217069872210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_0: -5899563704658574238
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_1: -375336100369522075
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_10: 2937647499547934205
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_11: 4803958975746766813
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_12: -2670770889016453934
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_13: -3308000738907195144
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_14: 4231791194628335359
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_15: -8634470474796813899
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_16: -5128536714324279700
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_17: -8646361017917455174
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_18: 3147735825384474471
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_19: -8492964098846395065
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_2: 5113145157120152722
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_20: -5715297837225608451
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_21: -4519979833785471817
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_22: -3309537957344745234
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_23: 8240502932947930653
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_24: 3590235661225618069
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_25: 6992394294446305478
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_26: 7906217006757878670
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_27: 4776761222887914767
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_28: 5911031992209733511
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_29: -4219672680937275802
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_3: -4093188724766419826
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_30: -2919295958799337522
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_31: 7474784002437797848
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_32: 5573645118544310346
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_33: 5420261531556278284
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_34: -7700891290312619764
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_35: 1188875264274610445
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_36: -5151207068136258194
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_37: -26640313534375215
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_38: -1523505994643352013
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_39: -9018657912619700726
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_4: -1524830081490217257
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_40: -7928254830528350031
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_41: -6709485824761558353
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_42: -2363492454445215101
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_43: 4644715162710928679
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_44: 6307072519172100572
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_45: 1961272783047997262
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_46: -1865348003277079893
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_47: 359708914224521291
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_48: -5285716506501593634
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_49: 3452089079941878194
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_5: 8516724485399145784
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_50: -7508852024204091727
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_51: 7620340722846475661
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_52: -3749545315359615433
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_53: 7963703911367217538
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_54: 4272287471295080101
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_55: 7648565313253498938
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_56: 7540512515333812770
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_57: -8934193865821854360
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_58: -7704910777404931239
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_59: 2809526471415663380
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_6: 7403599462955103193
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_60: -1821248560196841241
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_61: -2290729313248155804
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_62: 1648124030397164675
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_63: 8778271733445269087
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_64: -9939226861261425
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_65: -5650942325071709116
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_66: -1862610194474437408
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_67: -8306185418107181579
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_68: 2893974807021654365
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_69: 7315161700775386323
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_7: 5016049359130992408
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_70: -7033462084210844469
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_71: 346638414193518737
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_72: 7681340067998734235
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_73: 8062663553627425151
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_74: 5029367699175967195
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_75: 3935962357221486395
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_76: 8948958217069872210
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_8: -4835888251556588477
+      Mobile - Angry Birds - Characters & Enemies - Pigs (Tuomas Designs)_9: -6739242680773621356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

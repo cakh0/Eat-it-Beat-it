@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: f587ebea6d8bb5140a3a071a44131e09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -891485595697427291
+    second: seal angry_0
+  - first:
+      213: 7628965264219075414
+    second: seal angry_1
+  - first:
+      213: 7494501404047421656
+    second: seal angry_2
+  - first:
+      213: -6154307709050949077
+    second: seal angry_3
+  - first:
+      213: -3062924313264007369
+    second: seal angry_4
+  - first:
+      213: -6259853648868343717
+    second: seal angry_5
+  - first:
+      213: -813687551197179042
+    second: seal angry_6
+  - first:
+      213: -5433420831526443442
+    second: seal angry_7
+  - first:
+      213: 2707568682761802608
+    second: seal angry_8
+  - first:
+      213: 6284278451783739231
+    second: seal angry_9
+  - first:
+      213: 8490338171894043477
+    second: seal angry_10
+  - first:
+      213: 2456685820059479030
+    second: seal angry_11
+  - first:
+      213: -2118726564232607676
+    second: seal angry_12
+  - first:
+      213: -83461451809107037
+    second: seal angry_13
+  - first:
+      213: 5161640956302234744
+    second: seal angry_14
+  - first:
+      213: 1993992694721109775
+    second: seal angry_15
+  - first:
+      213: 5980140200443821609
+    second: seal angry_16
+  - first:
+      213: -251974180939389670
+    second: seal angry_17
+  - first:
+      213: -5234774096836138960
+    second: seal angry_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seal angry_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1056
+        width: 654
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acc312f29ec0a3f0800000000000000
+      internalID: -891485595697427291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1037
+        width: 643
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537291ec778fd960800000000000000
+      internalID: 7628965264219075414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_2
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 995
+        width: 642
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0b9e4c151d10860800000000000000
+      internalID: 7494501404047421656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_3
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1285
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22f19bdeb1879aa0800000000000000
+      internalID: -6154307709050949077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_4
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 967
+        width: 643
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ddfda09e4e75d0800000000000000
+      internalID: -3062924313264007369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1263
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b500541c5488029a0800000000000000
+      internalID: -6259853648868343717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1260
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e531cb8bb7335b4f0800000000000000
+      internalID: -813687551197179042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_7
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1232
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a8ad8a8c9894b0800000000000000
+      internalID: -5433420831526443442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_8
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1204
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0735df42f57339520800000000000000
+      internalID: 2707568682761802608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_9
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 1167
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572634d4fd363750800000000000000
+      internalID: 6284278451783739231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_10
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1157
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5531fa6659db3d570800000000000000
+      internalID: 8490338171894043477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 658
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb626dbcb6e71220800000000000000
+      internalID: 2456685820059479030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 289
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4484bb25a65c892e0800000000000000
+      internalID: -2118726564232607676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 63
+        width: 642
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3da74704c77def0800000000000000
+      internalID: -83461451809107037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_14
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 275
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874908a2a15d1a740800000000000000
+      internalID: 5161640956302234744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_15
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 57
+        width: 642
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f539d8ac51cab10800000000000000
+      internalID: 1993992694721109775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_16
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 261
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ebc7204d9bdf250800000000000000
+      internalID: 5980140200443821609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_17
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15a98441dec08cf0800000000000000
+      internalID: -251974180939389670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seal angry_18
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 212
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0386aa6a1b85a57b0800000000000000
+      internalID: -5234774096836138960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seal angry_0: -891485595697427291
+      seal angry_1: 7628965264219075414
+      seal angry_10: 8490338171894043477
+      seal angry_11: 2456685820059479030
+      seal angry_12: -2118726564232607676
+      seal angry_13: -83461451809107037
+      seal angry_14: 5161640956302234744
+      seal angry_15: 1993992694721109775
+      seal angry_16: 5980140200443821609
+      seal angry_17: -251974180939389670
+      seal angry_18: -5234774096836138960
+      seal angry_2: 7494501404047421656
+      seal angry_3: -6154307709050949077
+      seal angry_4: -3062924313264007369
+      seal angry_5: -6259853648868343717
+      seal angry_6: -813687551197179042
+      seal angry_7: -5433420831526443442
+      seal angry_8: 2707568682761802608
+      seal angry_9: 6284278451783739231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

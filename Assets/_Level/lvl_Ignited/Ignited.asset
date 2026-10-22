@@ -1,0 +1,1064 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de47e4e83a135254c9bfddbb4d627337, type: 3}
+  m_Name: Ignited
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelName: Ignited
+  songAudio: {fileID: 8300000, guid: a32900d57a576cd48850c91248ba9d1a, type: 3}
+  songBPM: 155
+  startDelay: 0.19
+  songLength: 195
+  beatmap:
+  - hitTime: 1.586
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 2.457
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 3.134
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 4.296
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 4.852
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 7.755
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 8.53
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 9.691
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 10.852
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 13.175
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 13.199
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 14.336
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 14.723
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 15.522
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 16.296
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 17.046
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 17.433
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 17.82
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 18.207
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 18.788
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 19.175
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 20.143
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 20.53
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 20.554
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 21.691
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 22.465
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 23.239
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 23.626
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 24.207
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 25.175
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 25.973
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 26.723
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 27.11
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 27.884
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 28.272
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 29.046
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 29.433
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 30.207
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 30.788
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 31.368
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 32.53
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 33.691
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 34.078
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 34.852
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 35.239
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 35.626
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 36.401
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 37.562
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 39.497
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 39.884
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 40.272
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 40.659
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 41.046
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 41.481
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 42.255
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 43.417
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 43.804
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 44.909
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 45.199
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 45.296
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 45.683
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 46.457
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 48.005
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 48.78
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 49.747
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 49.941
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 51.102
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 51.489
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 51.876
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 52.949
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 53.82
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 54.207
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 55.368
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 56.53
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 57.304
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 57.691
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 58.465
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 59.239
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 59.82
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 61.005
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 61.393
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 63.134
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 65.07
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 65.82
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 66.594
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 66.981
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 67.368
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 68.53
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 69.691
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 70.078
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 70.465
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 70.852
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 71.239
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 72.207
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 73.562
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 74.336
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 74.723
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 75.11
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 75.497
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 75.876
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 76.272
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 76.659
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 77.07
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 77.82
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 78.199
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 78.981
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 80.53
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 80.917
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 81.304
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 82.078
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 83.239
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 83.844
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 84.401
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 84.788
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 85.175
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 85.949
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 86.336
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 87.11
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 87.884
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 88.272
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 88.659
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 89.046
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 90.207
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 91.368
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 91.755
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 92.143
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 92.53
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 93.304
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 94.078
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 94.465
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 95.046
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 95.626
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 96.207
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 96.812
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 97.586
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 98.36
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 98.723
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 100.272
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 102.207
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 102.594
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 102.884
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 103.755
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 104.143
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 104.53
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 105.304
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 106.078
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 106.659
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 107.239
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 107.626
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 108.207
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 108.594
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 109.949
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 110.723
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 111.304
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 111.884
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 112.659
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 113.82
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 114.618
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 115.199
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 115.78
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 116.167
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 116.554
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 117.328
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 118.465
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 119.046
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 119.626
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 120.014
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 121.586
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 123.102
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 123.489
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 123.876
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 124.651
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 125.433
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 125.82
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 126.594
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 127.755
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 128.36
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 129.425
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 129.643
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 130.078
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 130.973
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 132.425
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 132.618
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 132.715
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 133.102
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 134.07
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 135.522
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 136.272
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 137.046
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 138.207
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 138.594
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 138.981
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 139.368
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 139.755
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 140.143
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 140.53
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 140.917
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 141.715
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 142.07
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 142.102
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 142.852
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 143.626
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 144.014
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 144.812
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 145.949
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 146.336
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 147.11
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 148.659
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 149.07
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 150.207
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 150.981
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 151.368
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 151.755
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 152.143
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 152.53
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 152.723
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 153.11
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 154.102
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 154.876
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 156.812
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 157.973
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 159.909
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 161.07
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 164.143
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 164.917
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 165.304
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 165.691
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 166.078
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 166.852
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 168.401
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 168.78
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 169.949
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 170.723
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 171.884
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 174.594
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 174.981
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 176.336
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 176.917
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 177.497
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 178.272
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 178.804
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 179.239
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 180.014
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 180.401
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 181.175
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 181.562
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 182.336
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 183.497
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 184.368
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 184.973
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 186.014
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 186.207
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 187.368
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 190.199
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 191.167
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 191.82
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 192.788
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 193.175
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 193.562
+    lane: 1
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 194.336
+    lane: 0
+    noteType: 0
+    hasSpawned: 0
+  - hitTime: 194.796
+    lane: 0
+    noteType: 0
+    hasSpawned: 0

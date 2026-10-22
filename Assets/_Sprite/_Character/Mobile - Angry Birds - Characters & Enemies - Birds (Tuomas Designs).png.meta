@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 35264028a39d1f146a27e260ec82f0b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5734405858939449963
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_0
+  - first:
+      213: -4828188076536091594
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_1
+  - first:
+      213: 2486781332430750672
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_2
+  - first:
+      213: -6073317517858480957
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_3
+  - first:
+      213: 4658024746579188746
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_4
+  - first:
+      213: 4710826866809363718
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_5
+  - first:
+      213: 2306572716636280477
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_6
+  - first:
+      213: 5731963862491111355
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_7
+  - first:
+      213: -7514493126311419778
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_8
+  - first:
+      213: 2689566646026573250
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_9
+  - first:
+      213: 2128894065824505825
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_10
+  - first:
+      213: -1578441855199222787
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_11
+  - first:
+      213: 8757210032279633295
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_12
+  - first:
+      213: -8591389845447744915
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_13
+  - first:
+      213: 8285342710679972937
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_14
+  - first:
+      213: 5123892002305520406
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_15
+  - first:
+      213: 3636743156833607025
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_16
+  - first:
+      213: -565498966619644381
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_17
+  - first:
+      213: -1218973932161261206
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_18
+  - first:
+      213: -4924158494603027362
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_19
+  - first:
+      213: -7650709962568698236
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_20
+  - first:
+      213: 3315987526498027468
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_21
+  - first:
+      213: -3894376971383457014
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_22
+  - first:
+      213: -1338979711622186254
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_23
+  - first:
+      213: -6614262023212129523
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_24
+  - first:
+      213: 664695029891548328
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_25
+  - first:
+      213: -2127957416985204500
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_26
+  - first:
+      213: -6851994225650834913
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_27
+  - first:
+      213: 6790881220713455495
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_28
+  - first:
+      213: -3934349208939141739
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_29
+  - first:
+      213: 3335964078801172164
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_30
+  - first:
+      213: -5169973454961105016
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_31
+  - first:
+      213: 7119404248946437924
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_32
+  - first:
+      213: -7898790494983275228
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_33
+  - first:
+      213: 2271702108492866844
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_34
+  - first:
+      213: 5258695178441264935
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_35
+  - first:
+      213: -482083069760384858
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_36
+  - first:
+      213: -1593121056973815839
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_37
+  - first:
+      213: 5424883910293139136
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_38
+  - first:
+      213: -5930411163221412821
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_39
+  - first:
+      213: -4387173631444007864
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_40
+  - first:
+      213: -2576494488396217315
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_41
+  - first:
+      213: 1076697691367990873
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_42
+  - first:
+      213: -7538443449447773494
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_43
+  - first:
+      213: -9209029257533382762
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_44
+  - first:
+      213: -6879286848872845728
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_45
+  - first:
+      213: -911945671446729293
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_46
+  - first:
+      213: 5803201970723747160
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_47
+  - first:
+      213: 8281602143247226214
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_48
+  - first:
+      213: -7862516871924758895
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_49
+  - first:
+      213: 8628442349417548492
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_50
+  - first:
+      213: -91435775451424591
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_51
+  - first:
+      213: -4166417534894790367
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_52
+  - first:
+      213: -1655471667884652107
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_53
+  - first:
+      213: 4771617436587572605
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_54
+  - first:
+      213: -2137417450739616282
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_55
+  - first:
+      213: 7544958580403059274
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_56
+  - first:
+      213: -5458471946529145608
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_57
+  - first:
+      213: 3745664091820956107
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_58
+  - first:
+      213: 418105939576162124
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_59
+  - first:
+      213: -3488719936165608027
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_60
+  - first:
+      213: 1570817544591248627
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_61
+  - first:
+      213: -4265453865949596824
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_62
+  - first:
+      213: 5949762695715848710
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_63
+  - first:
+      213: 8284010608599483237
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_64
+  - first:
+      213: 8873643520915340720
+    second: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 923
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62310c1fb3b49f40800000000000000
+      internalID: 5734405858939449963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_1
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 950
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c2a457684defcb0800000000000000
+      internalID: -4828188076536091594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 933
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d38b914272d28220800000000000000
+      internalID: 2486781332430750672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 951
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc53e335ed37bba0800000000000000
+      internalID: -6073317517858480957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 951
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cd4d6e3d0a4a040800000000000000
+      internalID: 4658024746579188746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 950
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dd98a8318306140800000000000000
+      internalID: 4710826866809363718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 933
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9696bf3aa7920020800000000000000
+      internalID: 2306572716636280477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 933
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf982183c60c8f40800000000000000
+      internalID: 5731963862491111355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70e71ba05827b790800000000000000
+      internalID: -7514493126311419778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 928
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c517285d92435520800000000000000
+      internalID: 2689566646026573250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 928
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef18ed9fd95b8d10800000000000000
+      internalID: 2128894065824505825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_11
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 932
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3ed32ee7f381ae0800000000000000
+      internalID: -1578441855199222787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_12
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 933
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8db38d602cd78970800000000000000
+      internalID: 8757210032279633295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 933
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d626037647045c880800000000000000
+      internalID: -8591389845447744915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 890
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ca3783c437bf270800000000000000
+      internalID: 8285342710679972937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 871
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613b2e8e0a8bb1740800000000000000
+      internalID: 5123892002305520406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 860
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d566202ae487230800000000000000
+      internalID: 3636743156833607025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 859
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e19cd9fa1f628f0800000000000000
+      internalID: -565498966619644381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 860
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612117caa5551fe0800000000000000
+      internalID: -1218973932161261206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 859
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cd67f30ffd9abb0800000000000000
+      internalID: -4924158494603027362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 824
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486fc8103d733d590800000000000000
+      internalID: -7650709962568698236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 818
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc78a842611c40e20800000000000000
+      internalID: 3315987526498027468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 819
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3a3f17c464f9c0800000000000000
+      internalID: -3894376971383457014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 818
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fafd47eb0dfa6de0800000000000000
+      internalID: -1338979711622186254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 818
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a517dbbb6534a0800000000000000
+      internalID: -6614262023212129523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 890
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a447a4ab98793900800000000000000
+      internalID: 664695029891548328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 761
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8607fe00af772e0800000000000000
+      internalID: -2127957416985204500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 748
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ed012e83d8e0a0800000000000000
+      internalID: -6851994225650834913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 748
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1f789d7e0e3e50800000000000000
+      internalID: 6790881220713455495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 748
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e7d25d326669c0800000000000000
+      internalID: -3934349208939141739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 748
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6386ca7a9bb4e20800000000000000
+      internalID: 3335964078801172164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_31
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 748
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88728dec8809048b0800000000000000
+      internalID: -5169973454961105016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 890
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42febd6b1743dc260800000000000000
+      internalID: 7119404248946437924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 680
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d3a47f4ebd16290800000000000000
+      internalID: -7898790494983275228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 659
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15293c1805b68f10800000000000000
+      internalID: 2271702108492866844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 658
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f0d0d2763aaf840800000000000000
+      internalID: 5258695178441264935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 659
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0d3b2900c4f49f0800000000000000
+      internalID: -482083069760384858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 658
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef71e2e6d814e9e0800000000000000
+      internalID: -1593121056973815839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 658
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce21c49c2f094b40800000000000000
+      internalID: 5424883910293139136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 658
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b243d2cb772f2bda0800000000000000
+      internalID: -5930411163221412821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 890
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c1d193d0ad13c0800000000000000
+      internalID: -4387173631444007864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 585
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144465e9e37e3cd0800000000000000
+      internalID: -2576494488396217315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 586
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e87088d231fe00800000000000000
+      internalID: 1076697691367990873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 585
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca8b448f91126790800000000000000
+      internalID: -7538443449447773494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 555
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f1b8a8ea4f23080800000000000000
+      internalID: -9209029257533382762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 556
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06eeae81f0dd780a0800000000000000
+      internalID: -6879286848872845728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 556
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd66f65e3e1853f0800000000000000
+      internalID: -911945671446729293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 555
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f5d8127d198050800000000000000
+      internalID: 5803201970723747160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_48
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 555
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6655d5f75492ee270800000000000000
+      internalID: 8281602143247226214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_49
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 554
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196c868ff8ab2e290800000000000000
+      internalID: -7862516871924758895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 495
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca48f1f9926eb770800000000000000
+      internalID: 8628442349417548492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 472
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8947c85a72bbef0800000000000000
+      internalID: -91435775451424591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_52
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 472
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12923ae9359ed26c0800000000000000
+      internalID: -4166417534894790367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 472
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b903040a459609e0800000000000000
+      internalID: -1655471667884652107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_54
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 450
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dbcd707c0383240800000000000000
+      internalID: 4771617436587572605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 472
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5b1ff272e5652e0800000000000000
+      internalID: -2137417450739616282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 890
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab5fd9ad315b860800000000000000
+      internalID: 7544958580403059274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 890
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf1b25fac9f34b0800000000000000
+      internalID: -5458471946529145608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 371
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc99ce865a54bf330800000000000000
+      internalID: 3745664091820956107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 372
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c470be603296dc500800000000000000
+      internalID: 418105939576162124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 344
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5860cb3b3959fc0800000000000000
+      internalID: -3488719936165608027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 291
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0058fb3aacc510800000000000000
+      internalID: 1570817544591248627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 264
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863f14aee401ec4c0800000000000000
+      internalID: -4265453865949596824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 167
+        width: 377
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602830806adc19250800000000000000
+      internalID: 5949762695715848710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_64
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 19
+        width: 328
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c32902c7b6f270800000000000000
+      internalID: 8284010608599483237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 266
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdfa9784c3852b70800000000000000
+      internalID: 8873643520915340720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_0: 5734405858939449963
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_1: -4828188076536091594
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_10: 2128894065824505825
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_11: -1578441855199222787
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_12: 8757210032279633295
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_13: -8591389845447744915
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_14: 8285342710679972937
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_15: 5123892002305520406
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_16: 3636743156833607025
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_17: -565498966619644381
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_18: -1218973932161261206
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_19: -4924158494603027362
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_2: 2486781332430750672
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_20: -7650709962568698236
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_21: 3315987526498027468
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_22: -3894376971383457014
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_23: -1338979711622186254
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_24: -6614262023212129523
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_25: 664695029891548328
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_26: -2127957416985204500
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_27: -6851994225650834913
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_28: 6790881220713455495
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_29: -3934349208939141739
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_3: -6073317517858480957
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_30: 3335964078801172164
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_31: -5169973454961105016
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_32: 7119404248946437924
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_33: -7898790494983275228
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_34: 2271702108492866844
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_35: 5258695178441264935
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_36: -482083069760384858
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_37: -1593121056973815839
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_38: 5424883910293139136
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_39: -5930411163221412821
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_4: 4658024746579188746
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_40: -4387173631444007864
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_41: -2576494488396217315
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_42: 1076697691367990873
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_43: -7538443449447773494
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_44: -9209029257533382762
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_45: -6879286848872845728
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_46: -911945671446729293
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_47: 5803201970723747160
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_48: 8281602143247226214
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_49: -7862516871924758895
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_5: 4710826866809363718
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_50: 8628442349417548492
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_51: -91435775451424591
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_52: -4166417534894790367
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_53: -1655471667884652107
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_54: 4771617436587572605
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_55: -2137417450739616282
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_56: 7544958580403059274
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_57: -5458471946529145608
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_58: 3745664091820956107
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_59: 418105939576162124
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_6: 2306572716636280477
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_60: -3488719936165608027
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_61: 1570817544591248627
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_62: -4265453865949596824
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_63: 5949762695715848710
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_64: 8284010608599483237
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_65: 8873643520915340720
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_7: 5731963862491111355
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_8: -7514493126311419778
+      Mobile - Angry Birds - Characters & Enemies - Birds (Tuomas Designs)_9: 2689566646026573250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
